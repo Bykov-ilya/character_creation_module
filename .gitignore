@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+#Удаление системных файлов и настроек
+.vscode
+.DS_Store
